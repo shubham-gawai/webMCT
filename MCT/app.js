@@ -26,7 +26,7 @@ const searchDomain = (e) => {
 // const options = {
 // 	method: 'GET',
 // 	headers: {
-// 		'X-RapidAPI-Key': '40b9bd1caamshefd88d3ebfeb6e3p1680c1jsn1f6cadf94195',
+// 		'X-RapidAPI-Key': '',
 // 		'X-RapidAPI-Host': 'whoisapi-domain-availability-v1.p.rapidapi.com'
 // 	}
 // };
